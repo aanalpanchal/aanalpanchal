@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="images/profile.jpg"  />
+  <img height="150" src="images/profile.jpeg"  />
 </div>
 
 ###
@@ -24,9 +24,8 @@
 
 ###
 
-<p align="left">I'm Aanal Panchal, a passionate software developer on a mission to craft elegant solutions through code. With over 2 years of experience in Java development, I bring a blend of creativity and technical expertise to every project I undertake.
-<br><br>- 🎓 I recently graduated from Humber College in April 2024, where I honed my skills and earned a degree in Information Technology Solutions. Armed with a solid foundation in IT, I'm ready to tackle new challenges and make meaningful contributions to the world of technology.<br>- 💻 My journey in software development has been fueled by a relentless curiosity and a desire to push the boundaries of what's possible. Whether it's building robust Java applications, diving into cloud technologies, or experimenting with the latest frameworks, I thrive on learning and growing with each new endeavor.
-<br>- 🚀 I'm excited to collaborate with like-minded individuals and teams who share my passion for innovation and excellence. Let's connect and create something remarkable together! <br>- 📫 I'm excited to collaborate with like-minded individuals and teams who share my passion for innovation and excellence. Let's connect and create something remarkable together!</p>
+<p align="left">I'm Aanal Panchal, a skilled Java developer with over 2 years of experience. I'm passionate about developing innovative solutions through code.
+<br><br>- 🎓 I graduated from Humber College in April 2024 with a degree in Information Technology Solutions. Ready to tackle new challenges in tech!<br>- 💻 Passionate about software development, constantly exploring new technologies and pushing boundaries to learn and grow.<br>- 🚀 I'm excited to collaborate with like-minded individuals and teams who share my passion for innovation and excellence. Let's connect and create something remarkable together! <br>- 📫 Feel free to reach out on GitHub or other platforms. I'm always up for discussing tech and coding. Let's start this coding adventure together!</p>
 
 ###
 
